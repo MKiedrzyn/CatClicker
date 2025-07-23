@@ -26,3 +26,4 @@ Stworzyłem tę aplikację jako część mojego portfolio na stanowisko **tester
    ```bash
    git clone https://github.com/MKiedrzyn/CatClicker.git
    ```
+![CatClicker-demo](https://github.com/user-attachments/assets/4ed652ab-646d-4970-b2fa-02acfd962ec6)
