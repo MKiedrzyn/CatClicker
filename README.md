@@ -1,6 +1,7 @@
 # 🐾 CatClicker – Prosta aplikacja Android
 
 CatClicker to lekka aplikacja mobilna napisana w Android Studio. Jej głównym celem jest zwiększanie licznika kliknięć po dotknięciu zdjęcia kota.
+
 ![CatClicker-demo](https://github.com/user-attachments/assets/d434ecba-be85-4fde-b178-9ff9e64d15af)
 
 ## 📱 Funkcje
