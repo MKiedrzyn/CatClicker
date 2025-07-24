@@ -14,6 +14,13 @@ CatClicker to lekka aplikacja mobilna napisana w Android Studio. Jej głównym c
 Stworzyłem tę aplikację jako część mojego portfolio na stanowisko **testera aplikacji mobilnych**. 
 Projekt służy jako prosta baza do ćwiczeń oraz pokazanie umiejętności w pisaniu testów/bugów oraz samym testowaniu.
 
+## 📚 Dokumentacja testów
+
+- [Plan testów](tests/manual/test-plan.md)
+- [Przypadki testowe](tests/manual/test-cases.md)
+- [Checklista](tests/manual/checklist.md)
+- [Zgłoszenia błędów](tests/manual/bug-reports.md)
+
 ## 🛠️ Technologie
 
 * Android Studio
