@@ -11,7 +11,8 @@ CatClicker to lekka aplikacja mobilna napisana w Android Studio. Jej głównym c
 
 ## 🎯 Cel projektu
 
-Stworzyłem tę aplikację jako część mojego portfolio na stanowisko **testera aplikacji mobilnych**. Projekt służy jako prosta baza do ćwiczeń.
+Stworzyłem tę aplikację jako część mojego portfolio na stanowisko **testera aplikacji mobilnych**. 
+Projekt służy jako prosta baza do ćwiczeń oraz pokazanie umiejętności w pisaniu testów/bugów oraz samym testowaniu.
 
 ## 🛠️ Technologie
 
