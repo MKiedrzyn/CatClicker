@@ -5,7 +5,7 @@
 - **Nazwa aplikacji:** CatClicker
 - **Platforma:** Android
 - **Tester:** Michał Kiedrzyn
-- **Data:** [Wstaw datę]
+- **Data:** 24.07.2025
 - **Wersja aplikacji:** v1.0
 
 ## 2. Cel testów
